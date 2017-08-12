@@ -1,3 +1,3 @@
 # Introduction to sum-square-difference
 
-TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)
+The solution for the 6th problem of the Euler project (https://projecteuler.net/problem=6). More clojure practice. 
